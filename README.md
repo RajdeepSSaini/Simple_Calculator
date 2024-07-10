@@ -30,9 +30,7 @@ Contributions to improve this simple calculator project are welcome! Feel free t
 
 
 
-Code with creativity. Be open to possibilities.
-
-
+**Code with creativity. Be open to possibilities.**
 ---
 
 *This project is maintained by Rajdeep Singh Saini and aims to provide a practical learning resource for college students interested in web development.*
